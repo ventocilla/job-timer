@@ -5,6 +5,7 @@ import 'package:job_timer/app/app_module.dart';
 import 'package:job_timer/app/app_widget.dart';
 import 'package:job_timer/firebase_options.dart';
 
+// Aula 1
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
